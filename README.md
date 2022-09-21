@@ -1,4 +1,4 @@
-# cpp_read_npy
+# cpp_read_write_npy
 an example of using cnpy read .npy file<br>
 ``sh build_cnpy.sh``<br>
 ``sh build_test.sh``<br>
